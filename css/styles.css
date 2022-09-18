@@ -1,0 +1,26 @@
+body { 
+    background-color: powderblue;
+}
+h1{
+    color: #256969;
+}
+
+h2{
+    color: #256969;
+}
+hr {
+    border-style:none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+}
+a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #eaf6f6
+}
