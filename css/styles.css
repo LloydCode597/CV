@@ -24,3 +24,9 @@ a {
 a:hover {
     color: #eaf6f6
 }
+
+.Personal-image {
+    width: 75%;
+    border-radius: 100%;
+    margin: 20px;
+}
