@@ -1,6 +1,6 @@
 # Lloyd Allen-CV
 
-This project is a web-based Curriculum Vitae (CV) showcasing the profile, education, work history, projects, skills, and contact details of Lloyd Allen, an inspiring software developer.
+This is a web-based Curriculum Vitae (CV) showcasing the profile, education, work history, projects, skills, and contact details of Lloyd Allen, an inspiring Software Developer.
 
 ## Table of Contents
 
